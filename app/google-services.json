@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "715787792776",
+    "firebase_url": "https://fir-neco.firebaseio.com",
+    "project_id": "fir-neco",
+    "storage_bucket": "fir-neco.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:715787792776:android:bfaf2d3845ed3cce8e8a3d",
+        "android_client_info": {
+          "package_name": "com.daisybell.firebaseneco"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "715787792776-d4ljaiqh5ls8uns5klbea47kjo6jedef.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQf4DSWfsfnXFd4Psev9M1EwzD4i2yoE8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "715787792776-d4ljaiqh5ls8uns5klbea47kjo6jedef.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
